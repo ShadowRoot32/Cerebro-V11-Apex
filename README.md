@@ -29,7 +29,7 @@ Pastikan Anda sudah menginstall:
 ### 2. Instalasi Lingkungan (Virtual Environment)
 ## Clone repository
 ```bash
-git clone [https://github.com/ShadowRoot32/Cerebro-Apex.git](https://github.com/ShadowRoot32/Cerebro-Apex.git)
+git clone https://github.com/ShadowRoot32/Cerebro-Apex.git
 cd Cerebro-Apex
 ```
 
