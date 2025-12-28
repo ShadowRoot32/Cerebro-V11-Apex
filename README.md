@@ -68,7 +68,7 @@ Pilih platform Anda (Windows/Android/iOS) dan download filenya.
 PENTING: Install file tersebut ke dalam folder "Trusted Root Certification Authorities" pada sistem operasi Anda.
 
 ### ☣️ Cara Penggunaan (Workflow)
-Jalankan script utama: ```bash python3 main.py``` (atau ```bash mitmdump -q -s main.py```).
+Jalankan script utama: ```python3 main.py``` (atau ```mitmdump -q -s main.py```).
 
 Lakukan browsing pada target (Scope).
 
