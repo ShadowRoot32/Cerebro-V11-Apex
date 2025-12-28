@@ -25,4 +25,4 @@ source venv/bin/activate
 venv\Scripts\activate
 
 # Install library
-pip install -r requirements.txt
+pip install -r requirements.txt# Cerebro-V11-Apex
