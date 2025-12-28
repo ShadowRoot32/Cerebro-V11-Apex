@@ -27,20 +27,20 @@ Pastikan Anda sudah menginstall:
 - **Ollama** (Unduh di [ollama.com](https://ollama.com))
 
 ### 2. Instalasi Lingkungan (Virtual Environment)
-# Clone repository
+## Clone repository
 ```bash
 git clone [https://github.com/ShadowRoot32/Cerebro-Apex.git](https://github.com/ShadowRoot32/Cerebro-Apex.git)
 cd Cerebro-Apex
 ```
 
-# Buat & Aktifkan Virtual Env
+## Buat & Aktifkan Virtual Env
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate  # Windows
 ```
 
-# Install Dependencies
+## Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
